@@ -21,6 +21,9 @@ At Sláinte Brewery, we recognize the importance of understanding sales data to 
 
 [Lab4-1_Slainte_Dataset.xlsx](https://github.com/mvillca31/Declarative-Data-Analysis-Project/files/12910476/Lab4-1_Slainte_Dataset.xlsx)
 
+# Tableau and Power Bi Workbooks
+https://public.tableau.com/views/Lab4-1SlainteSalesDasboard_twb_16973956000060/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Lab4-2SlainteSalesExplore_16973982426400/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 # Tools and Skills
