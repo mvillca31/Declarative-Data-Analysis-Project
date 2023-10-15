@@ -26,3 +26,8 @@ Our toolbox includes the following tools and skills, essential for comprehensive
 **Data Analysis:** Skillfully dissecting data to extract meaningful insights.
 **Data Cleaning:** Ensuring data quality and accuracy.
 **ELT (Extract, Load, Transform):** Employed to efficiently handle and process data.
+
+# Data Model of the Project
+
+![image](https://github.com/mvillca31/Declarative-Data-Analysis-Project/assets/140185898/94d9aecc-29a3-4577-81dc-b30a044c8fa1)
+
