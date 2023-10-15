@@ -16,7 +16,7 @@ At Sláinte Brewery, we recognize the importance of understanding sales data to 
 
 **Performance Assessment:** We've demonstrated how to compare sales figures to target or goal values. This enables us to assess our performance and make adjustments to achieve our objectives.
 
-**Tools and Skills**
+# Tools and Skills
 
 Our toolbox includes the following tools and skills, essential for comprehensive data analysis and visualization:
 
