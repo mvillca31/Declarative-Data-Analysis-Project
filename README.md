@@ -23,9 +23,9 @@ At Sláinte Brewery, we recognize the importance of understanding sales data to 
 
 # Tableau and Power Bi Workbooks
 **https://public.tableau.com/views/Lab4-1SlainteSalesDasboard_twb_16973956000060/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
-https://public.tableau.com/views/Lab4-2SlainteSalesExplore_16973982426400/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link**
-
+**
+**https://public.tableau.com/views/Lab4-2SlainteSalesExplore_16973982426400/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+**
 
 # Tools and Skills
 
