@@ -16,8 +16,9 @@ At Sláinte Brewery, we recognize the importance of understanding sales data to 
 
 **Performance Assessment:** We've demonstrated how to compare sales figures to target or goal values. This enables us to assess our performance and make adjustments to achieve our objectives.
 
-# Data used
+# Dataset used
 [Lab4-2_Slainte_Dataset.xlsx](https://github.com/mvillca31/Declarative-Data-Analysis-Project/files/12910474/Lab4-2_Slainte_Dataset.xlsx)
+
 [Lab4-1_Slainte_Dataset.xlsx](https://github.com/mvillca31/Declarative-Data-Analysis-Project/files/12910476/Lab4-1_Slainte_Dataset.xlsx)
 
 
