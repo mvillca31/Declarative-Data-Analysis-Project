@@ -20,9 +20,9 @@ At Sláinte Brewery, we recognize the importance of understanding sales data to 
 
 Our toolbox includes the following tools and skills, essential for comprehensive data analysis and visualization:
 
-Tableau: Used for creating interactive and insightful data visualizations.
-Power BI: Leveraged for dynamic and user-friendly dashboard development.
-Data Visualization: The art of turning raw data into compelling visuals for easier understanding.
-Data Analysis: Skillfully dissecting data to extract meaningful insights.
-Data Cleaning: Ensuring data quality and accuracy.
-ELT (Extract, Load, Transform): Employed to efficiently handle and process data.
+**Tableau:** Used for creating interactive and insightful data visualizations.
+**Power BI:** Leveraged for dynamic and user-friendly dashboard development.
+**Data Visualization:** The art of turning raw data into compelling visuals for easier understanding.
+**Data Analysis:** Skillfully dissecting data to extract meaningful insights.
+**Data Cleaning:** Ensuring data quality and accuracy.
+**ELT (Extract, Load, Transform):** Employed to efficiently handle and process data.
